@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Solar System Roulette
 
 A FastAPI-based web application where players bet on celestial bodies in a solar system roulette game.
@@ -14,3 +15,6 @@ A FastAPI-based web application where players bet on celestial bodies in a solar
 ## Run the App
 ```bash
 uvicorn app.main:app --reload
+=======
+# solar-system-roulette
+>>>>>>> fa98214a0475cd10ba4d6f69d5b1ba146774a899
