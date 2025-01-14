@@ -1,0 +1,16 @@
+# Solar System Roulette
+
+A FastAPI-based web application where players bet on celestial bodies in a solar system roulette game.
+
+## Features
+- Bet on planets, orbits, or events.
+- Special events like meteor showers and wormholes.
+
+## Installation
+1. Clone the repository.
+2. Create a virtual environment.
+3. Install dependencies using `pip install -r requirements.txt`.
+
+## Run the App
+```bash
+uvicorn app.main:app --reload
